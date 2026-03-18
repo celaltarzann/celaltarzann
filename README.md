@@ -19,7 +19,6 @@ Yapay zeka çıktığı ilk zamandan beridir yakından takip ediyorum, Türkiye'
   <img src="https://img.shields.io/badge/Next.JS-333333?style=flat&logo=next.js&logoColor=white" alt="Next.JS" />
   <img src="https://img.shields.io/badge/Node.JS-333333?style=flat&logo=node.js&logoColor=white" alt="Node.JS" />
   <img src="https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Tailwind-333333?style=flat&logo=tailwind&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/HTML-333333?style=flat&logo=html&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-333333?style=flat&logo=css&logoColor=white" alt="CSS" />
@@ -29,6 +28,11 @@ Yapay zeka çıktığı ilk zamandan beridir yakından takip ediyorum, Türkiye'
   <img src="https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/PostgresSQL-333333?style=flat&logo=postgressql&logoColor=white" alt="PostgresSQL" />
   <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Unreal Engine-333333?style=flat&logo=unrealengine&logoColor=white" alt="Unreal" />
+  <img src="https://img.shields.io/badge/Godot Engine-333333?style=flat&logo=godotengine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/Electron-333333?style=flat&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/React Native-333333?style=flat&logo=reactnative&logoColor=white" alt="React Native" />
 </p>
 
 ## 📊 GitHub İstatistiklerim
